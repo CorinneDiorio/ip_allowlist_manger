@@ -33,6 +33,21 @@ This script simulates how a security analyst might maintain and update an IP all
 python ip_allowlist_manager.py
 ```
 
+---
+
+## Career Focus
+
+I’m pursuing opportunities in:
+- Security Operations Center (SOC) Analysis
+- Threat Detection & Response
+- Entry-Level Cybersecurity Support Roles
+
+If you're hiring or collaborating on early-career cyber roles, feel free to connect!
+
+---
+
+**Let’s connect**: [LinkedIn](https://www.linkedin.com/in/corinnediorio2015) | **Certifications**: Google Cybersecurity | Studying: CompTIA Security+
+
 You’ll see the updated allow list printed in your terminal, and the file will be overwritten with the new data.
 
 ---
