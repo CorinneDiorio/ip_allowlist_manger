@@ -17,7 +17,7 @@ This script simulates how a security analyst might maintain and update an IP all
 | `allow_list.txt`          | Sample list of allowed IPs              |
 | `remove_list.txt`         | Sample list of IPs to remove            |
 
-## 🛠Key Concepts
+## Key Concepts
 
 - File handling (`open`, `read`, `write`)
 - List manipulation in Python
