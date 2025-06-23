@@ -15,7 +15,7 @@ This script simulates how a security analyst might maintain and update an IP all
 |--------------------|----------------------------------------------|
 | `ip_allowlist_manager.py` | Main Python script                      |
 | `allow_list.txt`          | Sample list of allowed IPs              |
-| `remove_list.txt`         | Sample list of IPs to remove (optional) |
+| `remove_list.txt`         | Sample list of IPs to remove            |
 
 ## 🛠️ Key Concepts
 
